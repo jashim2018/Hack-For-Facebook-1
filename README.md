@@ -1,17 +1,9 @@
+#Hack For Facebook
 
-Termux Banner
-#Script by Stevin Alex
-
-Installation Step :
-
-git clone https://github.com/stevinalex/Hack-For-Facebook.git
-
-cd Termux-Banner
-
-chmod +x requirement.sh
-
-chmod +x t-ban.sh
-
-bash requirement.sh
-
-bash t-ban.sh
+#apt update && apt upgrade -y 
+#apt install python 
+#git clone https://github.com/stevinalex/Hack-For-Facebook.git 
+#ls
+#cd fbhack 
+#ls
+#python Facebook.py
