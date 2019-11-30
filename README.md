@@ -4,7 +4,7 @@ Termux Banner
 
 Installation Step :
 
-git clone 
+git clone https://github.com/stevinalex/Hack-For-Facebook.git
 
 cd Termux-Banner
 
